@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @IrshadAhmad
 - 👀 I’m interested in Design, Architect, Develop and Deploy Web and Mobile Apps
-- 🌱 I’m currently learning NodeJS Sails, VueJS and Azure Kubernetes
-- 💞️ I’m looking to collaborate on .NET 5 and Laravel
+- 🌱 I’m currently working with OpenAI API, LangChain, LangGraph, Flutter, DeepSeek API
 - 📫 How to reach me on irshad_ahmad@hotmail.com
 
 <!---
